@@ -2,7 +2,7 @@
 
 Coding Project for Botkeeper.
 
-Aggregates Inventory and Pricing details from http://autumn-resonance-1298.getsandbox.com/inventory and http://autumn-resonance-1298.getsandbox.com//products.
+Aggregates Inventory and Pricing details from http://autumn-resonance-1298.getsandbox.com/inventory and http://autumn-resonance-1298.getsandbox.com/products.
 
 ---
 
