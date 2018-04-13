@@ -34,9 +34,9 @@ Aggregates Inventory and Pricing details from http://autumn-resonance-1298.getsa
   ```bash
   $ npm start
   ```
-* Live demo is hosted at:
+* Live demo is hosted [here](https://glacial-plateau-18814.herokuapp.com/)
 * Try it out:
-  * /details
-  * /details/shirt
+  * [/details](https://glacial-plateau-18814.herokuapp.com/details)
+  * [/details/shirt](https://glacial-plateau-18814.herokuapp.com/details/shirt)
 
 ---
