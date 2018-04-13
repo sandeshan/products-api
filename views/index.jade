@@ -2,7 +2,13 @@ extends layout
 
 block content
   h1= title
-  p Options:
-    ul
-      li /details
-      li /details/{product-name}
+  h3 Options:
+  ul
+    li /details
+    li /details/{product-name}
+  h3 Try it Out:
+  ul
+    li
+      a(href='/details') /details
+    li
+      a(href='/details/shirt') /details/shirt
